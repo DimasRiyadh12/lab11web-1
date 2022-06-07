@@ -308,6 +308,6 @@ Pada masing-masing file di dalam Views, buat file baru denga nama : ``rumah.php`
     <?= $this->include('template/footer'); ?>
 ```
 Untuk melihat hasilnya dengan menggunakan
-alamat: http://localhost:8080/rumah
+alamat: http://localhost:8080/contact
 
 ![img8](assets/img/finish.PNG)
